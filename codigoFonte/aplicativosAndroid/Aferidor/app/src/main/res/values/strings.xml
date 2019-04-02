@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aferidor</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="button_serverStartStop">Iniciar Servidor</string>
+    <string name="textView_serverStatus">Servidor Parado</string>
+    <string name="textView_serverIP">IP:</string>
+</resources>

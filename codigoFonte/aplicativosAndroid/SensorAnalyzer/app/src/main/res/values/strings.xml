@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sensor Analyzer</string>
+    <string name="saveDatas">Salvar Dados</string>
+    <string name="nameFile">Digite nome do Arquivo</string>
+    <string name="datas">Dados</string>
+    <string name="button_saveStart">Iniciar</string>
+    <string name="sensorName">Nome:</string>
+    <string name="sensorType">Tipo:</string>
+    <string name="sensorManufacturer">Fabricante:</string>
+    <string name="send_status">Enviar Status</string>
+    <string name="IP_toSend">IP para enviar Status</string>
+    <string name="IP_toSendStatus">192.168.43.47</string>
+</resources>
