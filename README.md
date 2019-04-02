@@ -7,4 +7,4 @@ O transporte de cargas evolui constantemente por todas as partes do mundo e o av
 ## Para mais detalhes veja:
 
 * [Apresentacao-TCC.pdf](Apresentacao-TCC.pdf)
-* [Texto - Plataforma com ajuste de equilibrio para transporte de cargas frageis utilizando recursos de um smartphone.pdf](Texto - Plataforma com ajuste de equilibrio para transporte de cargas frageis utilizando recursos de um smartphone.pdf)
+* [Texto-Plataforma-com-ajuste-de-equilibrio-para-transporte-de-cargas-frageis-utilizando-recursos-de-um-smartphone.pdf](Texto-Plataforma-com-ajuste-de-equilibrio-para-transporte-de-cargas-frageis-utilizando-recursos-de-um-smartphone.pdf)
